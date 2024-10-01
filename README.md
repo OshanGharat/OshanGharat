@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OshanGharat
-- 👀 I’m interested in Android 
+- 👀 I’m interested in Dev-Ops
 - 🌱 I’m currently learning Java and Web Dev
 - 📫 How to reach me twitter- https://twitter.com/OshanGharat Linkedin- https://www.linkedin.com/in/oshan-gharat/ gmail: oshangharat@gmail.com
 
